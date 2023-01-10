@@ -13,7 +13,7 @@ description: Omid Bazangani's publications
         <!--<li><a href="#letters">letters</a></li> -->
         <!--<li><a href="#chapters">chapters</a></li> -->
             <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#thesis">Thesis</a></li>
         </ul>
     </div>
 </div>
@@ -40,3 +40,16 @@ CORTEX-MO board, for which tools that profile the microarchitecture already exis
 covers 80% of the entire ARMv6 instruction set. ABBY-CM0 will be the first open source dataset with detailed information about the microarchitecture layer and can be used to create any number of transition-based leakage models. The main application for such leakage models is
 the creation of leakage simulators. A preliminary evaluation of a leakage model produced with the ABBY-CM0 dataset of real-world crypto implementations shows performance comparable to state-of-the-art leakage
 simulators.
+
+
+### <a name="thesis"></a>Thesis
+
+
+
+### <a name="techreports"></a>Technical Reports
+
+
+
+
+
+
