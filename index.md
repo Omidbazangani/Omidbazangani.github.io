@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 description: Omid Bazangani is an Embedded Software Engineer
 ---
 
