@@ -30,20 +30,21 @@ Particularly microarchitectural profilling for side-channel simulator design bas
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
            Omid Bazangani<br/>
             <a href="https://www.ru.nl/dis/">Department of Digital Security </a><br/>
+			<a href="https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/mercator-i">Mercator Building</a><br/>
             <a href="https://www.ru.nl/">Radboud University</a><br/>
-            <a href="https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/mercator-i">Mercator Building</a><br/>
+          
             Toernooiveld 200 <br/>
             Nijmegen<br/>
             The Netherland<br/><br/>
 
             <div id="hide_email">
-            Email: Omid.bazangani@gmail.com / omid.bazangani@ru.nl <br/>
+            Email: Omid.bazangani@gmail.com  omid.bazangani@ru.nl<br/>
             Phone: 0642923519
             </div>
         </div>
