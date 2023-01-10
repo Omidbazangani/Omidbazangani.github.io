@@ -1,53 +1,57 @@
 ---
-layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+layout: page
+title: about
+description: Omid Bazangani is an Embedded Software Engineer
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
-      </ul>
-  </div>
-</div>
+Omid is an Embedded Sotware Engineer with over than 7 years of experience in industry. 
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="publpics/iplotCorr.html">
-        <img src="publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="publpics/mppdiag_fig4.html">
-        <img src="publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="publpics/samplemixups_fig7.html">
-        <img src="publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="publpics/rqtl2_fig1.html">
-        <img src="publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
-    </a>
-  </td>
-</tr>
-</table>
+ 
+Omid received a BS in Telecommunication engineering in 2012, from sadjad university of technology, and a Msc. in Embedded System security, safety and integrity
+in 2020, from University of [Grenoble-INP](https://esisar.grenoble-inp.fr/).
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="morefigs.html">more figures</a></li>
-      </ul>
-  </div>
+He is a PhD candidate in [SESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud university from 2020 and he's main focuse is on Side-channel simulators for ARM Cortex-M microcontrollers. His PhD advisers are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Ileana Buhan](https://ileanabuhan.github.io/). 
+
+
+Omid is an Embedded software engineer focusing on side-channel attacks and simulators mainly for ARM microcontrollers. 
+Particularly microarchitectural profilling for side-channel simulator design based on machine learning algorithm. 
+
+
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/bazangani_cv.pdf)<br/>
+
+<!--[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/> -->
+<!--[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/> -->
+<!--[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/> -->
+<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
+[LinkedIn](https://www.linkedin.com/in/omid-bazangani/)<br/>
+<!--[blog](https://kbroman.org/blog/) <br/> -->
+
+
+---
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+           Omid Bazangani<br/>
+            <a href="https://www.ru.nl/dis/">Department of Digital Security </a><br/>
+            <a href="https://www.ru.nl/">Radboud University</a><br/>
+            <a href="https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/mercator-i">Mercator Building</a><br/>
+            Toernooiveld 200 <br/>
+           Nijmegen<br/>
+            The Netherland<br/><br/>
+
+            <div id="hide_email">
+            Email: Omid.bazangani@gmail.com / omid.bazangani@ru.nl
+            Phone: 0642923519
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../pics/omid.jpg">
+            <img src="../pics/omid.jpg"
+                  title="Omid Bazangani" alt="Omid Bazangani"/></a>
+        </div>
+    </div>
 </div>

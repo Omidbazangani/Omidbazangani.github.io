@@ -10,7 +10,7 @@ Omid is an Embedded Sotware Engineer with over than 7 years of experience in ind
 Omid received a BS in Telecommunication engineering in 2012, from sadjad university of technology, and a Msc. in Embedded System security, safety and integrity
 in 2020, from University of [Grenoble-INP](https://esisar.grenoble-inp.fr/).
 
-He is a PhD candidate in [SESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud university from 2020 and he's main focuse is on Side-channel simulators for ARM Cortex-M microcontrollers. His PhDadvisers are Lejla Batina and Ileana Buhan. 
+He is a PhD candidate in [SESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud university from 2020 and he's main focuse is on Side-channel simulators for ARM Cortex-M microcontrollers. His PhD advisers are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Ileana Buhan](https://ileanabuhan.github.io/). 
 
 
 Omid is an Embedded software engineer focusing on side-channel attacks and simulators mainly for ARM microcontrollers. 
