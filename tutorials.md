@@ -1,9 +1,12 @@
 ---
 layout: page
 title: tutorials
-description: Karl Broman's tutorials
+description: Omid's tutorials
 ---
 
+
+
+<!--
 - [initial steps toward reproducible research](https://kbroman.org/steps2rr)
 - [organizing data in spreadsheets](https://kbroman.org/dataorg)
 - [git/github guide](https://kbroman.org/github_tutorial)
@@ -23,3 +26,6 @@ description: Karl Broman's tutorials
 - [intro to C](https://www.biostat.wisc.edu/~kbroman/Cintro)
   \[not really a tutorial, but it includes a list of C programming books\]
 - [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
+-->
+
+- Nice Tutorials are coming soon 
