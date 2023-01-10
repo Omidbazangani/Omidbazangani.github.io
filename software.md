@@ -1,7 +1,7 @@
 ---
 layout: page
 title: software
-description: Karl Broman's software
+description: Omid's Software and Scripts
 ---
 
 <div class="navbar">

@@ -1,4 +1,4 @@
-## Karl Broman&rsquo;s website
+## Omid Bazangani website
 
 See [kbroman.org](https://kbroman.org).
 
