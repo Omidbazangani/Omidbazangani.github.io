@@ -44,7 +44,7 @@ Particularly microarchitectural profilling for side-channel simulator design bas
             The Netherland<br/><br/>
 
             <div id="hide_email">
-            Email: Omid.bazangani@gmail.com  omid.bazangani@ru.nl<br/>
+            Email: omid.bazangani@ru.nl<br/>
             Phone: 0642923519
             </div>
         </div>
