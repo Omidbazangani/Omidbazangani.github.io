@@ -12,7 +12,7 @@ description: Omid Bazangani's publications
         <!--<li><a href="#editorials">editorials</a></li> -->
         <!--<li><a href="#letters">letters</a></li> -->
         <!--<li><a href="#chapters">chapters</a></li> -->
-			<li><a href="#thesis">Projects</a></li>
+		
             <li><a href="#techreports">Tech reports</a></li>
             <li><a href="#thesis">Thesis</a></li>
 			
