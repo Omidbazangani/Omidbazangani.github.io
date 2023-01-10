@@ -39,11 +39,11 @@ Particularly microarchitectural profilling for side-channel simulator design bas
             <a href="https://www.ru.nl/">Radboud University</a><br/>
             <a href="https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/mercator-i">Mercator Building</a><br/>
             Toernooiveld 200 <br/>
-           Nijmegen<br/>
+            Nijmegen<br/>
             The Netherland<br/><br/>
 
             <div id="hide_email">
-            Email: Omid.bazangani@gmail.com / omid.bazangani@ru.nl
+            Email: Omid.bazangani@gmail.com / omid.bazangani@ru.nl <br/>
             Phone: 0642923519
             </div>
         </div>
