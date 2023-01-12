@@ -1,6 +1,5 @@
 ## Omid Bazangani website
 
-See [kbroman.org](https://kbroman.org).
 
 ---
 
