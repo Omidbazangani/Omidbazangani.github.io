@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutorials
+title: Projects
 description: Omid's tutorials
 ---
 

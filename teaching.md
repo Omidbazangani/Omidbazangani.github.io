@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 description: Omid's teaching
 ---
 
