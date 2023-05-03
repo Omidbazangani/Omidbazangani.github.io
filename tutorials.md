@@ -28,4 +28,13 @@ description: Omid's tutorials
 - [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
 -->
 
-- Nice Tutorials are coming soon 
+
+
+#### TA in Physical Attacks On Secure Systems  (Radboud University, spring 2023)
+
+
+- [Leakage Assessment Tutorial]({{ BASE_PATH }}/bazangani_cv.pdf)<br/>
+- [Fault injection Tutorial](https://www.ru.nl/courseguides/science/vm/osirislinks/imc/nwi-imc068/)
+- [DPA Attack Tutorial](https://github.com/omidbazangani/Teaching_Content/tree/main/PhysicalAttack_2023)
+ 
+
