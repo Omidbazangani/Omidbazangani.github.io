@@ -30,11 +30,23 @@ description: Omid's tutorials
 
 
 
-#### TA in Physical Attacks On Secure Systems  (Radboud University, spring 2023)
+#### Test Vector Leakage Assessment(TVLA) Tutorial 
+
+- [Instruction in PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/TVLA_Tutorial.pdf)
+- [Companion Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA-Student.ipynb)
+- [Solution Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA_Teacher.ipynb)
 
 
-- [Leakage Assessment Tutorial]({{ BASE_PATH }}/bazangani_cv.pdf)<br/>
-- [Fault injection Tutorial](https://www.ru.nl/courseguides/science/vm/osirislinks/imc/nwi-imc068/)
-- [DPA Attack Tutorial](https://github.com/omidbazangani/Teaching_Content/tree/main/PhysicalAttack_2023)
+
+
+#### Fault Injection (FI) Attack Tutorial 
+
+- [Instruction in PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/FI_Toturial.pdf)
+- [Companion Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Student.ipynb)
+- [Solution Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Teacher.ipynb)
+
+
+
+
  
 
