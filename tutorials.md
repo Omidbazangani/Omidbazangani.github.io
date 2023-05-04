@@ -30,21 +30,20 @@ description: Omid's tutorials
 
 
 
-#### Test Vector Leakage Assessment(TVLA) Tutorial 
-
+#### Test Vector Leakage Assessment(TVLA) 
 - [Instruction in PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/TVLA_Tutorial.pdf)
 - [Companion Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA-Student.ipynb)
 - [Solution Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA_Teacher.ipynb)
+- [Assignment of TVLA Assessment(Part1) ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Assignment2_2023.pdf)<br> <br>
+ 
 
 
-
-
-#### Fault Injection (FI) Attack Tutorial 
+#### Fault Injection (FI) Attack 
 
 - [Instruction in PDF ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/FI_Toturial.pdf)
 - [Companion Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Student.ipynb)
 - [Solution Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Teacher.ipynb)
-
+- [Assignment of FI attack(Part2) ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Assignment2_2023.pdf)<br> <br>
 
 
 
