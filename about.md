@@ -17,7 +17,7 @@ Omid is an Embedded software engineer focusing on side-channel attacks and simul
 Particularly microarchitectural profilling for side-channel simulator design based on machine learning algorithm. 
 
 
-[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/bazangani_cv.pdf)<br/>
+[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/PDF_Docs/bazangani_cv.pdf)<br/>
 
 <!--[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/> -->
 <!--[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/> -->
