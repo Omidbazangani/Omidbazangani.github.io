@@ -4,28 +4,100 @@ title: about
 description: Omid Bazangani is an Embedded Software Engineer
 ---
 
-Omid is an Embedded Sotware Engineer with over than 7 years of experience in industry. 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 
- 
+/* Global Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    font-size: 24px;
+    margin-top: 0;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    color: #2c3e50;
+}
+
+a {
+    color: #3498db;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Image */
+img {
+    max-width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+/* Horizontal Line */
+hr.shadow-effect {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.2));
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+/* Contact Section */
+.row-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.span5, .span2 {
+    margin: 10px 0;
+}
+
+#hide_email {
+    margin-top: 20px;
+}
+
+</style>
+
+Omid is an Embedded Software Engineer with over than 7 years of experience in industry. 
+
+<hr class="shadow-effect">
+
 Omid received his Msc. in Embedded System security, safety and integrity
 in 2020, from University of [Grenoble-INP](https://esisar.grenoble-inp.fr/).
 
-He is a PhD candidate in [CESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud university from 2020 and he's main focuse is on Side-channel simulators for ARM Cortex-M microcontrollers. His PhD advisers are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Ileana Buhan](https://ileanabuhan.github.io/). 
-
+He is a PhD candidate in [CESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud university from 2020 and his main focus is on Side-channel simulators for ARM Cortex-M microcontrollers. His PhD advisers are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Ileana Buhan](https://ileanabuhan.github.io/). 
 
 Omid is an Embedded software engineer focusing on side-channel attacks and simulators mainly for ARM microcontrollers. 
-Particularly microarchitectural profilling for side-channel simulator design based on machine learning algorithm. 
-
+Particularly microarchitectural profiling for side-channel simulator design based on machine learning algorithm. 
 
 [Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/PDFDocs/bazangani_cv.pdf)<br/>
 
-<!--[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/> -->
-<!--[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/> -->
-<!--[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/> -->
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [LinkedIn](https://www.linkedin.com/in/omid-bazangani/)<br/>
-<!--[blog](https://kbroman.org/blog/) <br/> -->
-
 
 ---
 
@@ -41,7 +113,7 @@ Particularly microarchitectural profilling for side-channel simulator design bas
           
             Toernooiveld 200 <br/>
             Nijmegen<br/>
-            The Netherland<br/><br/>
+            The Netherlands<br/><br/>
 
             <div id="hide_email">
             Email: omid.bazangani@ru.nl<br/>

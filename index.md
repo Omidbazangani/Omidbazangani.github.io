@@ -4,47 +4,103 @@ title: About
 description: Omid Bazangani is an Embedded Software Engineer
 ---
 
-Omid is an Embedded Sotware Engineer with over than 7 years of experience in industry. 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 
- 
-Omid received a BS in Telecommunication engineering in 2012, from sadjad university of technology, and a Msc. in Embedded System security, safety and integrity
-in 2020, from University of [Grenoble-INP](https://esisar.grenoble-inp.fr/).
+/* Global Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
 
-He is a PhD candidate in [CESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud university from 2020 and he's main focuse is on Side-channel simulators for ARM Cortex-M microcontrollers. His PhD advisers are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Ileana Buhan](https://ileanabuhan.github.io/). 
+h4 {
+    font-size: 24px;
+    margin-top: 0;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    color: #2c3e50;
+}
 
+a {
+    color: #3498db;
+    transition: color 0.3s ease;
+}
 
-Omid is an Embedded software engineer focusing on side-channel attacks and simulators mainly for ARM microcontrollers. 
-Particularly microarchitectural profilling for side-channel simulator design based on machine learning algorithm. 
+a:hover {
+    color: #2980b9;
+    text-decoration: none;
+}
 
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/bazangani_cv.pdf)<br/>
+/* Image */
+img {
+    max-width: 180px; /* Increased size */
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin: 20px 0;
+}
 
-<!--[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/> -->
-<!--[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/> -->
-<!--[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/> -->
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
+img:hover {
+    transform: scale(1.05);
+}
+
+/* Contact Section */
+.row-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.span5, .span2 {
+    margin: 10px 0;
+}
+
+#hide_email {
+    margin-top: 20px;
+}
+
+</style>
+
+Omid Bazangani is a seasoned Embedded Software Engineer with over 7 years of industry experience. He specializes in the development and optimization of embedded systems, with a keen interest in system security and integrity.
+
+Omid earned his M.Sc. in Embedded System security, safety, and integrity in 2020 from the University of [Grenoble-INP](https://esisar.grenoble-inp.fr/). He is currently a PhD candidate at [CESCA Lab](https://cescalab.cs.ru.nl/members/) of Radboud University. His research focuses on Side-channel simulators for ARM Cortex-M microcontrollers. He is mentored by [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Ileana Buhan](https://ileanabuhan.github.io/). 
+
+His professional journey revolves around side-channel attacks and simulators, primarily for ARM microcontrollers. He has a particular interest in microarchitectural profiling for side-channel simulator design based on machine learning algorithms.
+
+[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/PDFDocs/bazangani_cv.pdf)<br/>
+
 [LinkedIn](https://www.linkedin.com/in/omid-bazangani/)<br/>
-<!--[blog](https://kbroman.org/blog/) <br/> -->
-
-
----
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
            Omid Bazangani<br/>
             <a href="https://www.ru.nl/dis/">Department of Digital Security </a><br/>
+			<a href="https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/mercator-i">Mercator Building</a><br/>
             <a href="https://www.ru.nl/">Radboud University</a><br/>
-            <a href="https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/mercator-i">Mercator Building</a><br/>
+          
             Toernooiveld 200 <br/>
-           Nijmegen<br/>
-            The Netherland<br/><br/>
+            Nijmegen<br/>
+            The Netherlands<br/><br/>
 
             <div id="hide_email">
-            Email: Omid.bazangani@gmail.com <br/>
-        		   omid.bazangani@ru.nl<br/>
+            Email: omid.bazangani@ru.nl<br/>
             Phone: 0642923519
             </div>
         </div>
