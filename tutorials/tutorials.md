@@ -4,46 +4,58 @@ title: Tutorials
 description: Omid's tutorials
 ---
 
+<style>
+.tutorial-section {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+}
 
+.tutorial-title {
+    font-size: 20px;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
 
-<!--
-- [initial steps toward reproducible research](https://kbroman.org/steps2rr)
-- [organizing data in spreadsheets](https://kbroman.org/dataorg)
-- [git/github guide](https://kbroman.org/github_tutorial)
-- [minimal make](https://kbroman.org/minimal_make)
-- [knitr in a knutshell](https://kbroman.org/knitr_knutshell)
-- [R package primer](https://kbroman.org/pkg_primer)
-- [simple site](https://kbroman.org/simple_site): making a simple
-  website with [GitHub Pages](https://pages.github.com)
-- [hipsteR](https://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
+.tutorial-link {
+    display: block;
+    margin-bottom: 10px;
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
 
----
+.tutorial-link:hover {
+    color: #2980b9;
+}
 
-- [intro to R](https://www.biostat.wisc.edu/~kbroman/Rintro)
-  \[not really a tutorial, but there are some useful links here\]
-- [intro to Perl](https://www.biostat.wisc.edu/~kbroman/perlintro)
-  \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
-- [intro to C](https://www.biostat.wisc.edu/~kbroman/Cintro)
-  \[not really a tutorial, but it includes a list of C programming books\]
-- [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
--->
+.tutorial-link::before {
+    content: '🔗 ';
+    display: inline-block;
+    margin-right: 5px;
+}
 
+.pdf-link::before {
+    content: '📄 ';
+}
 
+.notebook-link::before {
+    content: '📓 ';
+}
 
-#### Test Vector Leakage Assessment(TVLA) 
-- [Instruction in PDF ![CV as pdf](../icons16/pdf-icon.png)]({{ BASE_PATH }}/PDFDocs/TVLA_Tutorial.pdf)
-- [Companion Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA-Student.ipynb)
-- [Solution Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA_Teacher.ipynb)
-<!--  - [Assignment of TVLA Assessment(Part1) ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Assignment2_2023.pdf)<br> <br> -->
+</style>
 
-#### Fault Injection (FI) Attack 
+<div class="tutorial-section">
+    <h2 class="tutorial-title">Test Vector Leakage Assessment(TVLA)</h2>
+    <a class="tutorial-link pdf-link" href="{{ BASE_PATH }}/PDFDocs/TVLA_Tutorial.pdf">Instruction in PDF</a>
+    <a class="tutorial-link notebook-link" href="https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA-Student.ipynb">Companion Jupyter Notebook</a>
+    <a class="tutorial-link notebook-link" href="https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/TinyAES_TVLA_Teacher.ipynb">Solution Jupyter Notebook</a>
+</div>
 
-- [Instruction in PDF ![CV as pdf](../icons16/pdf-icon.png)]({{ BASE_PATH }}/PDFDocs/FI_Toturial.pdf)
-- [Companion Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Student.ipynb)
-- [Solution Jupyter Notebook](https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Teacher.ipynb)
-
-<!--  - [Assignment of FI attack(Part2) ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Assignment2_2023.pdf)<br> <br> -->
-
-
- 
+<div class="tutorial-section">
+    <h2 class="tutorial-title">Fault Injection (FI) Attack</h2>
+    <a class="tutorial-link pdf-link" href="{{ BASE_PATH }}/PDFDocs/FI_Toturial.pdf">Instruction in PDF</a>
+    <a class="tutorial-link notebook-link" href="https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Student.ipynb">Companion Jupyter Notebook</a>
+    <a class="tutorial-link notebook-link" href="https://github.com/omidbazangani/Teaching_Content/blob/main/PhysicalAttack_2023/FI_Tutorial_ClockGlitch_Teacher.ipynb">Solution Jupyter Notebook</a>
+</div>
 

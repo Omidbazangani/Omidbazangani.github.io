@@ -1,31 +1,40 @@
 ---
 layout: page
 title: Projects
-description: Omid's tutorials
+description: Omid's Projects
 ---
 
+<style>
+.projects-section {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+    text-align: center;
+}
 
+.projects-title {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
 
-<!--
-- [initial steps toward reproducible research](https://kbroman.org/steps2rr)
-- [organizing data in spreadsheets](https://kbroman.org/dataorg)
-- [git/github guide](https://kbroman.org/github_tutorial)
-- [minimal make](https://kbroman.org/minimal_make)
-- [knitr in a knutshell](https://kbroman.org/knitr_knutshell)
-- [R package primer](https://kbroman.org/pkg_primer)
-- [simple site](https://kbroman.org/simple_site): making a simple
-  website with [GitHub Pages](https://pages.github.com)
-- [hipsteR](https://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
+.projects-description {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+}
 
----
+.placeholder-icon {
+    font-size: 50px;
+    color: #e0e0e0;
+    margin-bottom: 20px;
+}
 
-- [intro to R](https://www.biostat.wisc.edu/~kbroman/Rintro)
-  \[not really a tutorial, but there are some useful links here\]
-- [intro to Perl](https://www.biostat.wisc.edu/~kbroman/perlintro)
-  \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
-- [intro to C](https://www.biostat.wisc.edu/~kbroman/Cintro)
-  \[not really a tutorial, but it includes a list of C programming books\]
-- [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
--->
+</style>
 
-- Nice Projects are coming soon 
+<div class="projects-section">
+    <i class="placeholder-icon">🚧</i>
+    <h2 class="projects-title">Upcoming Projects</h2>
+    <p class="projects-description">Nice projects are coming soon. Stay tuned!</p>
+</div>
+
