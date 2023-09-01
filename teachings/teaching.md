@@ -5,34 +5,68 @@ description: Omid's teaching
 ---
 
 <style>
+body {
+    background-color: #f2f2f2;
+}
+
 .course-section {
-    margin-bottom: 40px;
-    border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 20px;
+    margin-bottom: 60px;
+    padding: 30px;
+    position: relative;
+    transition: all 0.3s ease;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.course-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.course-section:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    bottom: -30px;
+    left: 10%;
+    right: 10%;
+    height: 1px;
+    background: linear-gradient(to right, transparent 10%, #e0e0e0 50%, transparent 90%);
 }
 
 .course-title {
-    font-size: 20px;
+    font-size: 24px;
     color: #2c3e50;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
+    transition: text-shadow 0.3s ease;
+}
+
+.course-section:hover .course-title {
+    text-shadow: 2px 2px 8px rgba(50, 152, 219, 0.4);
 }
 
 .course-link {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     color: #3498db;
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: color 0.3s ease, padding-left 0.3s ease;
 }
 
 .course-link:hover {
     color: #2980b9;
+    padding-left: 15px;
 }
 
 .course-link::before {
     content: '🔗 ';
     display: inline-block;
-    margin-right: 5px;
+    margin-right: 8px;
+    transition: transform 0.3s ease;
+}
+
+.course-link:hover::before {
+    transform: scale(1.1);
 }
 
 </style>
